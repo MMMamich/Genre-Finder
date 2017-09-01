@@ -45,4 +45,4 @@ module.exports = function(app) {
 //		res.json({status: 'OK', matchName: matchName, matchImage: matchImage});
 //	});
                 
-}
+});
