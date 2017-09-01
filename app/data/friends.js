@@ -1,0 +1,175 @@
+var genres = [
+   
+ {
+  "name":"Death Metal",
+  "photo":"https://metalwani.com/wp-content/uploads/2016/01/deathmetal.png",
+  "scores":[
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ]
+},
+    
+{
+  "name":"Country",
+  "photo":"https://nsucurrent.nova.edu/wp-content/uploads/2017/03/country-music.jpg",
+  "scores":[
+      5,
+      4,
+      3,
+      2,
+      1,
+      2,
+      3,
+      4,
+      5,
+      5
+    ]
+},
+    
+{
+  "name":"Rock",
+  "photo":"http://www.jurassikrock.com/img/music.jpg",
+  "scores":[
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5,
+      4,
+      3
+    ]
+},
+    
+{
+  "name":"Alternative",
+  "photo":"https://www.fairfaxstatic.com.au/content/dam/images/1/3/9/8/i/r/image.related.articleLeadwide.620x349.gjuni7.png/1443162472143.jpg",
+  "scores":[
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      2,
+      3,
+      3
+    ]
+},
+    
+{
+  "name":"Jazz",
+  "photo":"https://cdn-images.audioaddict.com/1/b/e/b/e/8/1bebe8759e23ab6a1b92e1d46e2e7f12.png",
+  "scores":[
+      5,
+      4,
+      5,
+      4,
+      5,
+      4,
+      5,
+      4,
+      5,
+      4
+    ]
+},
+    
+{
+  "name":"Classical",
+  "photo":"https://thumbs.dreamstime.com/x/classical-music-15401762.jpg",
+  "scores":[
+      5,
+      5,
+      4,
+      4,
+      5,
+      3,
+      3,
+      3,
+      4,
+      5
+    ]
+},
+    
+{
+  "name":"Rap",
+  "photo":"https://i.pinimg.com/736x/b8/e5/37/b8e537227a173b878bed94da186408f2--headphones-tattoo-microphone-tattoo.jpg",
+  "scores":[
+      4,
+      3,
+      2,
+      4,
+      5,
+      4,
+      3,
+      4,
+      5,
+      4
+    ]
+},
+    
+{
+  "name":"Punk",
+  "photo":"http://jeugdcultuur.pbworks.com/f/child-gangs-punkers.jpg",
+  "scores":[
+      2,
+      1,
+      3,
+      2,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ]
+},
+    
+{
+  "name":"Pop",
+  "photo":"http://cdn.playbuzz.com/cdn/708dbb81-c21d-4708-8204-f6f76c5cead0/38997c9b-41a0-4d6b-82cb-c8decf07765a.jpg",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+    
+{
+  "name":"Funk",
+  "photo":"https://i.pinimg.com/236x/23/92/54/239254731a6a0353c3755c0c1819e79c--meshell-ndegeocello-soul-music.jpg",
+  "scores":[
+      3,
+      2,
+      5,
+      4,
+      1,
+      1,
+      4,
+      3,
+      2,
+      5
+    ]
+}
+    
+];
+
+module.exports = genres;

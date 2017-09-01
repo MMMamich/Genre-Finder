@@ -1,0 +1,15 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "3 packages required to download for routes to run properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
