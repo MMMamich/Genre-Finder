@@ -11,8 +11,8 @@ module.exports = function(app) {
       
 }); 
        
-    app.post('/api/friends', function(req, res) {
-        
+    app.post('/api/friends', function(req, res){
+            
 		var userInput = req.body;
         
 		console.log(req.body);
@@ -43,6 +43,5 @@ module.exports = function(app) {
 //
 //		
 //		res.json({status: 'OK', matchName: matchName, matchImage: matchImage});
-//	});
-                
-});
+	});
+};
